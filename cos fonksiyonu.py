@@ -1,2 +1,2 @@
-from math import cos
-print(cos(45))
+import math 
+print(math.cos(45))
